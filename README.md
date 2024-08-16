@@ -6,7 +6,7 @@
  - Android Studio 4.0 or higher
    
  # Database Used
- -SQLite
+ - SQLite
 
 #
 -  Expense Tracker is an android app which users can execute in their mobile phones and update their daily expenses so that they are well 
